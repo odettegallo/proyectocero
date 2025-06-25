@@ -2,3 +2,7 @@ José Huerta
 Antonio Eliash O
 Odette Gallo Martínez
 Pedro Nina
+
+https://github.com/odettegallo/proyectocero
+
+Cada integrante agregó su nombre al archivo nombres.txt
